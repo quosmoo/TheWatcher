@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/107768845/180644106-37ffd18e-3c4c-4116-a9f3-9c2e1ea9ad82.png", width="400", height="400"></p>
 <br>
 
-<h2 align="center">Hunt down usernames through social media.</h2>
+<h2 align="center">Hunt down usernames through social media</h2>
 
 <br>
 <br>
